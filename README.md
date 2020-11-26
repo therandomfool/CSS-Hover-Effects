@@ -1,4 +1,11 @@
 # CSS Hover Effects
 
 
-![csshovereffects](img/uc3.gif)
+- :before pseudo element
+- :hover pseudo class
+- :nth-child() pseudo class
+- transition
+
+
+
+![csshovereffects](img/hoverEffects.gif)
